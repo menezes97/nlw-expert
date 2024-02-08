@@ -1,6 +1,6 @@
 # Certification application
 
-Project created on the rocketseat course
+Project created on the Rocketseat course
 
 Project with the Spring ecosystem (Spring MVC, Spring JPA, Spring Boot) 
 
